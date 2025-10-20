@@ -20,24 +20,26 @@ export default function Layout() {
 
           {/* Menú */}
           <nav className="flex items-center gap-6">
-            
-            <Link to="/soporte" className="text-gray-700 hover:text-indigo-600 font-medium">
+            <Link
+              to="/soporte"
+              className="text-gray-700 hover:text-indigo-600 font-medium"
+            >
               Soporte
             </Link>
+
             <Link
               to="/login"
               className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition"
             >
               Iniciar Sesión
             </Link>
+
             <Link
-              to="/registro"
+              to="/planes"
               className="bg-indigo-500 text-white px-4 py-2 rounded hover:bg-indigo-600 transition"
             >
               Registrarse
             </Link>
-            <Link to="/reportes">Reportes</Link>
-
           </nav>
         </div>
       </header>
