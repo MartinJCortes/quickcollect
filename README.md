@@ -59,13 +59,22 @@ Luego abre en el navegador:
 http://localhost:5173
 
 🗺️ Roadmap del proyecto
+
 Fase	Módulo	Estado
+
 Fase 1	Vista pública, planes, portafolio, dashboard básico y reportes iniciales	✅ Completado
+
 Fase 2	Registro real con autenticación (Firebase Auth)	🔄 En proceso
+
 Fase 3	Integración con pagos en Colombia (Wompi / PSE)	🔜 Próximo
+
 Fase 4	Notificaciones automáticas (Email / WhatsApp)	🔜 Pendiente
+
 Fase 5	Multimoneda + Panel multiempresa	🔜 Pendiente
+
 Fase 6	App móvil (React Native)	🕒 Futuro
+
+
 
 QuickCollect seguirá evolucionando como plataforma de automatización de cobranza inteligente.
 
