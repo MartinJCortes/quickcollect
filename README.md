@@ -33,3 +33,39 @@ QuickCollect está desarrollado con un stack moderno, orientado a rendimiento, e
 
 ---
 
+## ⚙️ Instalación y ejecución del proyecto
+
+Requisitos previos instalados:
+
+- **Node.js (versión 18 o superior)**
+- **NPM o Yarn**
+- **Git**
+
+### ▶️ 1. Clonar el repositorio
+
+
+git clone https://github.com/TU_USUARIO/quickcollect.git
+cd quickcollect
+
+▶️ 2. Instalar dependencias
+npm install
+
+▶️ 3. Ejecutar en modo desarrollo
+npm run dev
+
+
+Luego abre en el navegador:
+
+http://localhost:5173
+
+🗺️ Roadmap del proyecto
+Fase	Módulo	Estado
+Fase 1	Vista pública, planes, portafolio, dashboard básico y reportes iniciales	✅ Completado
+Fase 2	Registro real con autenticación (Firebase Auth)	🔄 En proceso
+Fase 3	Integración con pagos en Colombia (Wompi / PSE)	🔜 Próximo
+Fase 4	Notificaciones automáticas (Email / WhatsApp)	🔜 Pendiente
+Fase 5	Multimoneda + Panel multiempresa	🔜 Pendiente
+Fase 6	App móvil (React Native)	🕒 Futuro
+
+QuickCollect seguirá evolucionando como plataforma de automatización de cobranza inteligente.
+
